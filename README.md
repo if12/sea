@@ -6,8 +6,8 @@
 
 #### 前端框架
 
-* [React Practice](https://github.com/if12/react-better-practice)
-
+* [React Practice](https://github.com/if12/react-better-practice) 一些React项目实践
+* [Travelling in React](https://github.com/if12/react-travel) 一些React例子
 #### 脚手架
 
 * [generator-yo-react](https://github.com/if12/generator-yo-react)
